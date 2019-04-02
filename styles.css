@@ -1,0 +1,55 @@
+
+.name{
+    display:flex;
+    justify-content:space-around;
+}
+.items{
+    display:flex;
+    justify-content:space-around;
+    background:#d5cce7;
+}
+.addItems{
+    display:flex;
+    justify-content:space-around;
+    background:#d5cce7;
+}
+.newI{
+    display:flex;
+    justify-content:space-around;
+}
+input{
+    width:150px;
+    height:20px;
+    border-radius:5px;
+}
+button{
+    width:100px;
+    border-radius:15px;
+    text-align:center;
+}
+.totalItem{
+    display:flex;
+    justify-content: flex-end;
+    padding-right:50px;
+    background:#d5cce7;
+}
+.price{
+    display:flex;
+    justify-content: flex-end;
+    padding-right:50px;
+    background:#d5cce7;
+}
+img{
+    width:200px;
+    height:200px;
+    padding:20px;
+}
+body{
+    background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Sxlh_vs3it7xa78y/stack-of-open-book-in-wind-green-garden-background_ha0sz8sc_thumbnail-full01.png");
+    background-size:1500px;
+    font-family: 'Lobster', cursive;
+}
+.checkout{
+    display:flex;
+    justify-content:center;
+}
